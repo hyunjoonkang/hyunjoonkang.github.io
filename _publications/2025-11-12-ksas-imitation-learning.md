@@ -2,7 +2,7 @@
 title: "저중력 환경에서의 모방학습 기반 로봇팔의 월면 탐사 임무 디지털 모사"
 collection: publications
 category: domestic conference
-permalink: /publication/2025-11-12-paper-title-number-1
+permalink: /publication/2025-11-ksas-imitation-learning
 excerpt: "This paper is about the number 1. The number 2 is left for future work."
 date: 2025-11-12
 venue: "KSAS"
