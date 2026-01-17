@@ -88,6 +88,10 @@ publication_category:
     title: "Books"
   manuscripts:
     title: "Journal Articles"
+  international conference:
+    title: "International Conference Papers"
+  domestic conference:
+    title: "Domestic Conference Papers"
   conferences:
     title: "Conference Papers"
 
