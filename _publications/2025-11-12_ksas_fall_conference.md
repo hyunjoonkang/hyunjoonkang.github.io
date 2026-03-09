@@ -3,7 +3,7 @@ title: "저중력 환경에서의 모방학습 기반 로봇팔의 월면 탐사
 collection: publications
 category: domestic conference
 permalink: /publication/ksas-2025-fall-conference
-excerpt: "This paper is about the number 1. The number 2 is left for future work."
+excerpt: "This paper presents a phase-based mission-scenario integration framework for autonomous lunar surface operations, linking rover traversal and stationary manipulation within a single persistent scenario. The proposed Phase Manager enables consistent cross-phase handoff, reproducible evaluation, and phase-wise failure attribution, while deep reinforcement learning is applied to improve robustness in both traversal and manipulation under lunar-like uncertainty. Simulation results demonstrate improved traversal stability, robust manipulation performance, and successful sequential mission execution under a shared scenario instance."
 date: 2025-11-12
 venue: "KSAS"
 slidesurl: "https://academicpages.github.io/files/slides1.pdf"
