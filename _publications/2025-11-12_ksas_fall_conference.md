@@ -16,6 +16,6 @@ The contents above will be part of a list of publications, if the user clicks th
 
 이 페이지는 논문 상세 설명 영역입니다. 아래처럼 그림과 캡션을 넣을 수 있습니다.
 
-![KSAS 2025 system overview](/Users/hyunjoonkang/05Repo/hyunjoonkang.github.io/images/publications/AA_fig03_scenario_framework_v1.png)
+![KSAS 2025 system overview](/images/publications/AA_fig03_scenario_framework_v1.png)
 
 _Figure 1. 모방학습 기반 로봇팔 월면 탐사 임무 시나리오 및 시스템 구성도._
