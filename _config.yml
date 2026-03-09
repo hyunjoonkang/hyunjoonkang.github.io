@@ -86,14 +86,14 @@ author:
 publication_category:
   books:
     title: "Books"
-  manuscripts:
-    title: "Journal Articles"
+  international journal:
+    title: "International Journal Articles"
+  domestic journal:
+    title: "Domestic Journal Articles"
   international conference:
     title: "International Conference Papers"
   domestic conference:
     title: "Domestic Conference Papers"
-  conferences:
-    title: "Conference Papers"
 
 # Site Settings
 teaser: # filename of teaser fallback teaser image placed in /images/ for social media previews
