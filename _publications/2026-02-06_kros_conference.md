@@ -1,15 +1,15 @@
 ---
-title: "Digital Simulation of Robotic Arm Tasks on the Lunar Surface Using Imitation Learning in Low-Gravity Environments"
+title: "웹 지식 증강 및 시각-언어 모델 기반의 미지 환경 인지 내비게이션"
 collection: publications
 category: domestic conference
-permalink: /publication/2025-11-ksas-spring-conference
+permalink: /publication/kros-2026-conference
 excerpt: "This paper is about the number 1. The number 2 is left for future work."
-date: 2025-11-12
-venue: "KSAS"
+date: 2026-02-06
+venue: "KROS"
 slidesurl: "https://academicpages.github.io/files/slides1.pdf"
 paperurl: "https://academicpages.github.io/files/paper1.pdf"
 bibtexurl: "https://academicpages.github.io/files/bibtex1.bib"
-citation: "강현준, 최재용 &quot;저중력 환경에서의 모방학습 기반 로봇팔의 월면 탐사 임무 디지털 모사,&quot; 한국항공우주학회, 추계학술대회, 강원도 고성, 11월 12일-14일, 2025.
+citation: "정민규,김유현, 강현준, 최재용 &quot;웹 지식 증강 및 시각-언어 모델 기반의 미지 환경 인지 내비게이션&quot;, 한국로봇학회 한국로봇종합학술대회, 알펜시아 컨벤션센터, 평창, 2월 4일-7일, 2026.
 "
 ---
 
